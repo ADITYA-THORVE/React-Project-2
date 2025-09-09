@@ -1,0 +1,11 @@
+.App{
+    border:'solid';
+    color:aqua;
+    background-color: rgb(16, 197, 203);
+}
+
+.counter{
+    border:'solid';
+    color:rgb(160, 231, 7);
+    background-color: brown;
+}

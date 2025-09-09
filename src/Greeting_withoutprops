@@ -1,0 +1,10 @@
+import React from "react";
+
+function Greeting_withoutprops({Name});
+{
+    return(
+        <div>
+            <h1> Bye Bye{name}</h1>
+        </div>
+    )
+}
