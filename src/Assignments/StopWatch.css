@@ -1,0 +1,27 @@
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: chartreuse;
+    color: blanchedalmond;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: darkgreen;
+}
+div {
+    text-align: center;
+    margin-top: 50px;
+    font-family: Arial, sans-serif;
+}
+h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+ div > button {
+    margin: 5px;
+ }
+    

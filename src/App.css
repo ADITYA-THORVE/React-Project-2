@@ -1,11 +1,30 @@
-.App{
-    border:'solid';
-    color:aqua;
-    background-color: rgb(16, 197, 203);
+.App {
+    font-family: Arial sans-serif;
+    padding: 20px;
+    text-align: center;
+}
+ button{
+    padding:10px 20px;
+    margin:10px;
+    background-color: aquamarine;
+    color: white;
+    border:none;
+    text-align: center;
+}
+button:hover{
+    background-color: chartreuse;
+    
+}
+p{ 
+    
+    font-size: 1.2rem;
+    color: darkblue;
+}
+h2 {
+    margin: 0
+
+}
+p {
+    margin: 5px 0;
 }
 
-.counter{
-    border:'solid';
-    color:rgb(160, 231, 7);
-    background-color: brown;
-}
