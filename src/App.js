@@ -16,7 +16,7 @@
 // import LoginStatus from "./Assignments/LoginSatus";
 // import Weather from "./Assignments/Weather";
 //  import ContactCard from "./Assignments/ContactCard";
-import GreeingG from "./Assignments/GreetingtG"
+// import GreeingG from "./Assignments/GreetingtG"
 import Stopwatch from "./Assignments/StopWatch";
 
 function App(){
